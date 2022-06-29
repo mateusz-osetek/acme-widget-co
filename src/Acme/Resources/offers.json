@@ -1,0 +1,8 @@
+[
+    {
+        "class":"Acme\\Offer\\SecondProductHalfPrice",
+        "productCode":"R01",
+        "discount":0.5,
+        "isActive":true
+    }
+]

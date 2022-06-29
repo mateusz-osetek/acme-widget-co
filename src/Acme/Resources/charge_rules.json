@@ -1,0 +1,20 @@
+[
+    {
+        "class":"Acme\\ChargeRules\\BasketPriceIsLowerThan",
+        "basketPrice":50,
+        "discount":4.95,
+        "isActive":true
+    },
+    {
+        "class":"Acme\\ChargeRules\\BasketPriceIsLowerThan",
+        "basketPrice":90,
+        "discount":2.95,
+        "isActive":true
+    },
+    {
+        "class":"Acme\\ChargeRules\\BasketPriceIsHigherOrEqualThan",
+        "basketPrice":90,
+        "discount":0,
+        "isActive":true
+    }
+]
